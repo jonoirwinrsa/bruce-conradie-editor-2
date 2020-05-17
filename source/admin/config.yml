@@ -8,7 +8,7 @@ public_folder: /images/uploads
 
 collections:
 
-#markdown middleman blog example
+  #markdown middleman blog example
   - name: team
     label: Team
     folder: source/people/
@@ -19,7 +19,7 @@ collections:
     fields:
       - {label: Title, name: title, widget: string, required: true}
       - {label: Publish Date, name: date, widget: datetime}
-      - {label: Description, name: description, widget: string}
+      - {label: Short Description, name: description, widget: string}
       - {label: Image, name: image, widget: image}
       - {label: Body, name: body, widget: markdown}
 
@@ -39,6 +39,7 @@ collections:
           - label: Story
             name: story
             widget: markdown
+
       - file: "data/pages/about.yml"
         label: About Us
         name: about-us

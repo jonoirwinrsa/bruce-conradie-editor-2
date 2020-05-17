@@ -1,15 +1,14 @@
 article.team-item
   .row
-    .image
-      - if article.data.image
-        = link_to article
-          = image_tag article.data.image
+    / .image
+    /   - if article.data.image
+    /     = link_to article
+    /       = image_tag article.data.image
 
-    .content
-      .wrapper
-        = link_to article
-          h3 = article.data.title
+    .wrapper
+      = link_to article
+        h3 = article.data.title
 
-        p = article.data.description
+      p = article.data.description
 
-        = link_to 'Read the story', article, class: 'cta'
+      = link_to 'More details', article, class: 'cta'
