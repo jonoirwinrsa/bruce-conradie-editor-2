@@ -1,29 +1,29 @@
 ---
 title: Prof Gregory Lee
 date: 2018-08-14T12:01+02:00
-description: >-
-  The Coffee Taster’s Flavor Wheel, the official resource used by coffee
-  tasters, has been revised for the first time this year.
-image: /images/uploads/blog_item-01.jpg
+description: Gregory is an associate Professor of digital business at Wits
+  Business School, where he focuses on digital business with a particular focus
+  on the effect of the fourth industrial revolution on workplaces and workplace
+  analytics.
+image: /images/uploads/i05_Keyboard_night_BW.jpg
 ---
+Prof Gregory Lee is a statistics consultant to The Research Faculty. Gregory is an associate Professor of digital business at Wits Business School, where he focuses on digital business with a particular focus on the effect of the fourth industrial revolution on workplaces and workplace analytics. He is the author of many books, including internationally-published books on analytics and human capital management. His analytics books have been published worldwide by SAS press and others.
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+He has published in journals such as the Human Resource Management Journal, International Journal of Human Resource Management, European Journal of Operational Research, Scientometrics, and the International Journal of Manpower.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+He consults to organisations and is a regular public speaker at industry conferences.
 
-## What the updates mean to you
+He has particular statistical expertise in structural equation modelling, regression-based techniques, factor and cluster approaches, and others.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Publications
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+* Lee, G.J. (2019).Designing Organizations for People-Led Sustainable Competitiveness. Silk Route Press.
+* Lee, G.J. & Davison, A,H. (2018). Designing payroll levies for firm training.International Journal of Manpower, 39(6): 766-781.
+* Lee, G.J. (2018). Talent measurement: A holistic model and routes forward.South African Journal of Human Resource Management, 16: 1-11.
+* Lee, G.J. (2016).Business Statistics from Scratch to Intermediate in SAS®. Silk Route Press.
+* Lee, G.J. & Barnes, T. (2016). Factors driving online apparel shopping in South Africa,Retail & Marketing Review, 62(2): 362-379.
+* Lee, G.J. & Rees, G. (2016). Give and take between households and the state: Development and application of a benefaction-contribution ratio,Review of Income and Wealth, 62(2): 362-379.
+* Lee, G.J. (2016). Transcending paradox in the realm of executive pay. In Goldman, G. (Eds.) Critical Management Studies in the South African Context, Aosis Publishing.
+* Lee, G.J. (2015). Training match and mismatch as a driver of key employee behaviors,Human Resource Management Journal, 25(4): 478-495.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+**Lee, G.J. (2015).Business Statistics Made Easy in SAS®. Carey, NC: SAS Press. URL: https://support.sas.com/publishing/authors/lee.html.**
