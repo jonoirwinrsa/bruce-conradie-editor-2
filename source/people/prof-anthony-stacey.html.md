@@ -1,5 +1,6 @@
 ---
 title: Prof Anthony Stacey
+date: 2018-08-16T12:01+02:00
 description: Prof Anthony Stacey is a The Research Faculty consultant in
   research methods. He is an Associate Professor in decision science and
   research methodology at Wits Business School.
