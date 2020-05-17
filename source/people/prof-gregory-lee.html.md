@@ -25,5 +25,4 @@ Publications
 * Lee, G.J. & Rees, G. (2016). Give and take between households and the state: Development and application of a benefaction-contribution ratio,Review of Income and Wealth, 62(2): 362-379.
 * Lee, G.J. (2016). Transcending paradox in the realm of executive pay. In Goldman, G. (Eds.) Critical Management Studies in the South African Context, Aosis Publishing.
 * Lee, G.J. (2015). Training match and mismatch as a driver of key employee behaviors,Human Resource Management Journal, 25(4): 478-495.
-
-**Lee, G.J. (2015).Business Statistics Made Easy in SAS®. Carey, NC: SAS Press. URL: https://support.sas.com/publishing/authors/lee.html.**
+* Lee, G.J. (2015).Business Statistics Made Easy in SAS®. Carey, NC: SAS Press. URL: https://support.sas.com/publishing/authors/lee.html.**
