@@ -1,29 +1,27 @@
 ---
-title: 'Bruce Conradie'
+title: Bruce Conradie
 date: 2018-08-18T09:01+02:00
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
-image: /images/uploads/blog_item-03.jpg
+description: Bruce Conradie supports students and academics with services that
+  include editing of theses, dissertations, and journal articles; document
+  analysis and data preparation and analysis.
+image: /images/uploads/i13_Program_code_zoom.jpg
 ---
+Bruce Conradie supports students and academics with services that include editing of theses, dissertations, and journal articles; document analysis and data preparation and analysis.
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+When he is not editing, Bruce supervises the research work of Master of Business Administration (MBA) students.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Bruce has a record of accomplishment in student supervision, lecturing, data management, market research, consumer research, marketing, public relations, trade and technical publishing, and journalism.
 
-## A little history
+Bruce holds a Master of Management by Research from the Wits Business School (2012-2015). This was a research-only Masters. The title of his dissertation was The Relationship between Passion for the Cause and Sense of Virtual Community in a Facebook-Based Cause-Related Virtual Community. His study used quantitative methods to examine online consumer behaviour. The primary analytical methods were exploratory factor analysis and multiple regression analysis.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Bruce also has Bachelor of Arts from Wits University (1984-1986) and Certificate of Marketing Management from the Institute of Marketing Management (1997).
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+Bruce’s skills include:
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
-
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
-
+* Writing and editing for a wide variety of media and genres
+* Page layout and design
+* Qualitative and quantitative research methods
+* Data management, visualisation, development
+* Database design and programming
+* Software programming
+* Domain knowledge in marketing, consumer behaviour, and psychology
