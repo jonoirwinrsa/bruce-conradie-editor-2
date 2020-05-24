@@ -9,7 +9,7 @@ public_folder: /images/uploads
 collections:
   #yaml middleman data example
   - name: services
-    label: Service
+    label: Services
     format: yml
     extension: yml
     folder: data/services/
@@ -18,7 +18,6 @@ collections:
     fields:
       - {label: Title, name: title, widget: string, required: true}
       - {label: Publish Date, name: date, widget: datetime}
-      - {label: Image, name: image, widget: image, required: true}
       - {label: Body, name: body, widget: markdown}
 
   #markdown middleman blog example
