@@ -1,0 +1,15 @@
+---
+title: Contact Us | The Research Faculty
+---
+
+section.hero style=background_image(image_path(data.pages.contact.hero.image))
+  .caption
+    .row
+      h1 = data.pages.contact.hero.title
+
+section.homepage-story
+  .container
+    .row
+      .story-content
+        = markdown data.pages.contact.story
+

@@ -1,5 +1,13 @@
 nav_items:
   - label: Home
     path: /
+  - label: Services
+    path: /services
   - label: About Us
     path: /about-us
+  - label: Fees
+    path: /fees
+  - label: Resources
+    path: /resources
+  - label: Contact Us
+    path: /contact-us

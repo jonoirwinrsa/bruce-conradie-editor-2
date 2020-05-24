@@ -12,11 +12,3 @@ section.homepage-story
     .row
       .story-content
         = markdown data.pages.home.story
-
-section.homepage-team.team
-  .container
-    h2
-      | The Team
-    .team-items
-      - blog.articles.each do | article |
-        = partial 'partials/team/team_item', locals: {article: article}

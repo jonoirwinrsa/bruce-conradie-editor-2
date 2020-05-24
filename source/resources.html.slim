@@ -1,0 +1,15 @@
+---
+title: Resources | The Research Faculty
+---
+
+section.hero style=background_image(image_path(data.pages.resources.hero.image))
+  .caption
+    .row
+      h1 = data.pages.resources.hero.title
+
+section.homepage-story
+  .container
+    .row
+      .story-content
+        = markdown data.pages.resources.story
+
