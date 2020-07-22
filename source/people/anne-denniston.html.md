@@ -4,7 +4,7 @@ date: 2018-08-16T12:01+02:00
 description: Anne Denniston has edited fiction and non-fiction for more than 20
   years. She is an accredited editor with the South African Translators
   Institute and is an expert in document formatting.
-image: /images/uploads/i04_Keyboard_backlit.jpg
+image: /images/uploads/portrait-anne-b-w.jpg
 ---
 Anne Denniston has edited fiction and non-fiction for more than 20 years. She is an accredited editor with the South African Translators Institute and is an expert in document formatting.
 
